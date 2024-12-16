@@ -1,0 +1,18 @@
+{
+  "name": "b_end",
+  "version": "1.0.0",
+  "description": "app for backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Nisarg Fultariya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
